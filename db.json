@@ -1,19 +1,10 @@
 [
-    {
-      "id": 1,
-      "title": "【MV】Bigger Bigger BaNG!!! / BAE",
-      "category": "BAE",
-      "image": "https://i.ytimg.com/vi/ezeQ9cX9qBc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCGOCsLvVR8ydkU1wozKzUna6r7eQ",
-      "video": "https://www.youtube.com/watch?v=ezeQ9cX9qBc&t=2s",
-      "description": "Video musical de Bigger Bigger BaNG!!!/BAE"
-    },
-    {
-        "id": 2,
-        "title": "【MV】Get It Back / The Cat’s Whiskers",
-        "category": "The Cat’s Whiskers",
-        "image": "https://i.ytimg.com/vi/P8kxkQPryLg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD914HxVihE5DyS2HoHQy-Wmc8wQw",
-        "video": "https://www.youtube.com/watch?v=P8kxkQPryLg",
-        "description": "Video musical de Get It Back / The Cat’s Whiskers"
-      }
-
-  ]
+  {
+    "id": 1,
+    "title": "¿Qué es React?",
+    "category": "Frontend",
+    "image": "https://via.placeholder.com/150",
+    "video": "https://www.youtube.com/watch?v=ov7vA5HFe6w&t=3s",
+    "description": "Un video introductorio a React."
+  }
+]
